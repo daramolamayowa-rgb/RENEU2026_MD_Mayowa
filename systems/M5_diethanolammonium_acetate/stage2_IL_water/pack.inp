@@ -1,0 +1,19 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure diethanolammonium_pack.xyz
+  number 72
+  inside box 1.5000 1.5000 1.5000 34.6600 34.6600 34.6600
+end structure
+
+structure acetate_pack.xyz
+  number 72
+  inside box 1.5000 1.5000 1.5000 34.6600 34.6600 34.6600
+end structure
+
+structure spce_pack.xyz
+  number 288
+  inside box 1.5000 1.5000 1.5000 34.6600 34.6600 34.6600
+end structure

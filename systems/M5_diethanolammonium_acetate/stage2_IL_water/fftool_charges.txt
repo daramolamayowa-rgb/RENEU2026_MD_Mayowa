@@ -1,0 +1,7 @@
+density 15.17 mol/L  box [36.2 36.2 36.2] A
+molecule_file      species           nmol force_field      natom nbond source  charge
+  diethanolammonium.zmat diethanolammonium    72 reneu.ff            19    18 file   +1.0000
+  acetate.zmat     acetate             72 reneu.ff             7     6 file   -1.0000
+  spce.zmat        SPCE               288 spce.ff              3     2 file   +0.0000
+Packmol file
+  pack.inp

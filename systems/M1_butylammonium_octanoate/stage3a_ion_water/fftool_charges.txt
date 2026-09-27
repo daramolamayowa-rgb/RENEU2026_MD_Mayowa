@@ -1,0 +1,7 @@
+density 44.72 mol/L  box [26.6 26.6 26.6] A
+molecule_file      species           nmol force_field      natom nbond source  charge
+  nd.zmat          Nd3+                 1 nd.ff                1     0 file   +3.0000
+  octanoate.zmat   octanoate            3 reneu.ff            25    24 file   -1.0000
+  spce.zmat        SPCE               500 spce.ff              3     2 file   +0.0000
+Packmol file
+  pack.inp

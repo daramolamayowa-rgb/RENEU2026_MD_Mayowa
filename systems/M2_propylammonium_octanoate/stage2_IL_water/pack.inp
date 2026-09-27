@@ -1,0 +1,19 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure propylammonium_pack.xyz
+  number 59
+  inside box 1.5000 1.5000 1.5000 34.0600 34.0600 34.0600
+end structure
+
+structure octanoate_pack.xyz
+  number 59
+  inside box 1.5000 1.5000 1.5000 34.0600 34.0600 34.0600
+end structure
+
+structure spce_pack.xyz
+  number 236
+  inside box 1.5000 1.5000 1.5000 34.0600 34.0600 34.0600
+end structure

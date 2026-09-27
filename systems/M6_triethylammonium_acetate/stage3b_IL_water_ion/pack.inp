@@ -1,0 +1,24 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure triethylammonium_pack.xyz
+  number 74
+  inside box 1.5000 1.5000 1.5000 35.0100 35.0100 35.0100
+end structure
+
+structure acetate_pack.xyz
+  number 77
+  inside box 1.5000 1.5000 1.5000 35.0100 35.0100 35.0100
+end structure
+
+structure spce_pack.xyz
+  number 296
+  inside box 1.5000 1.5000 1.5000 35.0100 35.0100 35.0100
+end structure
+
+structure nd_pack.xyz
+  number 1
+  inside box 1.5000 1.5000 1.5000 35.0100 35.0100 35.0100
+end structure

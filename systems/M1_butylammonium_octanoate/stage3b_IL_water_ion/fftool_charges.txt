@@ -1,0 +1,8 @@
+density 12.15 mol/L  box [35.7 35.7 35.7] A
+molecule_file      species           nmol force_field      natom nbond source  charge
+  butylammonium.zmat butylammonium       55 reneu.ff            17    16 file   +1.0000
+  octanoate.zmat   octanoate           58 reneu.ff            25    24 file   -1.0000
+  spce.zmat        SPCE               220 spce.ff              3     2 file   +0.0000
+  nd.zmat          Nd3+                 1 nd.ff                1     0 file   +3.0000
+Packmol file
+  pack.inp

@@ -1,0 +1,14 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure ethanolammonium_pack.xyz
+  number 98
+  inside box 1.5000 1.5000 1.5000 30.5300 30.5300 30.5300
+end structure
+
+structure acetate_pack.xyz
+  number 98
+  inside box 1.5000 1.5000 1.5000 30.5300 30.5300 30.5300
+end structure

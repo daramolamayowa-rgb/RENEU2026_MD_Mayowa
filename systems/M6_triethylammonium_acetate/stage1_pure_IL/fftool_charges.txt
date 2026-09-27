@@ -1,0 +1,6 @@
+density 7.44 mol/L  box [32.1 32.1 32.1] A
+molecule_file      species           nmol force_field      natom nbond source  charge
+  triethylammonium.zmat triethylammonium    74 reneu.ff            23    22 file   +1.0000
+  acetate.zmat     acetate             74 reneu.ff             7     6 file   -1.0000
+Packmol file
+  pack.inp

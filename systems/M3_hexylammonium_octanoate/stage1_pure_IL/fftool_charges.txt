@@ -1,0 +1,6 @@
+density 4.89 mol/L  box [31.9 31.9 31.9] A
+molecule_file      species           nmol force_field      natom nbond source  charge
+  hexylammonium.zmat hexylammonium       48 reneu.ff            23    22 file   +1.0000
+  octanoate.zmat   octanoate           48 reneu.ff            25    24 file   -1.0000
+Packmol file
+  pack.inp

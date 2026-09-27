@@ -1,0 +1,14 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure choline_pack.xyz
+  number 48
+  inside box 1.5000 1.5000 1.5000 30.5300 30.5300 30.5300
+end structure
+
+structure octanoate_pack.xyz
+  number 48
+  inside box 1.5000 1.5000 1.5000 30.5300 30.5300 30.5300
+end structure

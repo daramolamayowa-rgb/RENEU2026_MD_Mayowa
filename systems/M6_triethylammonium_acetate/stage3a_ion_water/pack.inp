@@ -1,0 +1,19 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure nd_pack.xyz
+  number 1
+  inside box 1.5000 1.5000 1.5000 24.8200 24.8200 24.8200
+end structure
+
+structure acetate_pack.xyz
+  number 3
+  inside box 1.5000 1.5000 1.5000 24.8200 24.8200 24.8200
+end structure
+
+structure spce_pack.xyz
+  number 500
+  inside box 1.5000 1.5000 1.5000 24.8200 24.8200 24.8200
+end structure

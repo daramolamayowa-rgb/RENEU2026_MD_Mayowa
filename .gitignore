@@ -1,0 +1,18 @@
+# Block massive simulation data dumps
+*.log
+*.data
+*.dump
+*.lammpstrj
+*.restart
+*.rst
+*.trj
+*.xtc
+*.dcd
+*.chk
+
+# Block credential tokens
+.conda/
+.env
+*.token
+*_token
+

@@ -1,0 +1,14 @@
+# created by fftool
+tolerance 2.0
+filetype xyz
+output simbox.xyz
+
+structure butylammonium_pack.xyz
+  number 55
+  inside box 1.5000 1.5000 1.5000 30.6000 30.6000 30.6000
+end structure
+
+structure octanoate_pack.xyz
+  number 55
+  inside box 1.5000 1.5000 1.5000 30.6000 30.6000 30.6000
+end structure

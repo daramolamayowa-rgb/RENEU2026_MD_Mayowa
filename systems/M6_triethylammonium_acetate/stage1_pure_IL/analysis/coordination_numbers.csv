@@ -1,0 +1,4 @@
+pair,n_atoms_A,n_atoms_B,first_peak_r_A,g_at_peak,first_minimum_r_A,first_shell_CN
+N-H(cation) ... O(carboxylate),74,148,1.625,12.114,2.325,1.189
+N(cation) ... O(carboxylate),74,148,2.625,5.075,3.625,1.550
+N(cation) ... C(carboxylate),74,74,3.325,3.544,4.075,1.004

@@ -1,0 +1,19 @@
+# Nd(III) for use with SPC/E water and CL&P.
+# 12-6 Lennard-Jones parameters, IOD set for SPC/E water, from
+#   P. Li, L. F. Song, K. M. Merz Jr., J. Phys. Chem. B 2015, 119, 883-895.
+#   doi:10.1021/jp505875v
+# Converted to CL&P units (A, kJ/mol) from the R_min/2 and epsilon(kcal/mol)
+# reported there.
+#
+# THIS IS NOT A CL&P PARAMETER. Two things must be checked before any number
+# that depends on it is presented:
+#   1. run Stage 3a and confirm the Nd-O(water) first peak comes out near
+#      2.4-2.5 A with a coordination number near 8-9;
+#   2. read the combining rule. CL&P mixes sigma geometrically (fftool default);
+#      the Li-Merz set was fitted with Lorentz-Berthelot arithmetic mixing.
+#      The difference is small for a single ion but it is a real approximation
+#      and belongs in your methods slide.
+
+ATOMS
+#     typ   m/u      q/e    pot   pars
+Nd    Nd   144.242  +3.00   lj    2.9952   0.52569
