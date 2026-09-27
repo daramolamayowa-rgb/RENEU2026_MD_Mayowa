@@ -1,9 +1,9 @@
 # Programmable Protic Ionic Liquid–Metal-Organic Framework (PIL-MOF) Moieties for Critical Element Extraction: A Molecular Dynamics (MD) Study
 
 [![Git-Status](https://shields.io)](#)
-[![Field](https://shields.io_🔬-emerald)](#)
+[![Field](https://shields.io-emerald)](#)
 
-Molecular dynamics workflow, parameter structures, analysis scripts, and validation resources for investigating how protic ionic liquid (PIL) molecular architecture influences the coordination environment of Neodymium ions (\(\text{Nd}^{3+}\)) in mixed PIL/water solvent systems. 
+Molecular dynamics workflow, parameter structures, analysis scripts, and validation resources for investigating how protic ionic liquid (PIL) molecular architecture influences the coordination environment of Neodymium ions in mixed PIL/water solvent systems. 
 
 This repository archives original research assets compiled during the **RENEU Summer Research Program**.
 
