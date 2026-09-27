@@ -1,6 +1,6 @@
 # Programmable Protic Ionic Liquid–Metal-Organic Framework (PIL-MOF) Moieties for Critical Element Extraction: A Molecular Dynamics (MD) Study
 
-Molecular dynamics workflow, parameter structures, analysis scripts, and validation resources for investigating how protic ionic liquid (PIL) molecular architecture influences the coordination environment of Neodymium ions in mixed PIL/water solvent systems. 
+Molecular dynamics workflow, parameter structures, analysis scripts, and validation resources for investigating how protic ionic liquid (PIL) molecular architecture influences the coordination environment of critical element ion, with Nd³⁺ as a representative trivalent ion in mixed PIL/water solvent systems. 
 
 This repository archives original research assets compiled during the **RENEU Summer Research Program**.
 
@@ -12,7 +12,7 @@ This repository archives original research assets compiled during the **RENEU Su
 > **How do the molecular structure and coordination behavior of protic ionic liquids influence their suitability for the selective extraction of critical-element ions?**
 
 ### Key Computational Insights
-* **First-Shell Dynamics:** Observed \(\text{Nd}^{3+}\) first-shell coordination numbers (CN) ranging stably between **8.33–9.01** across the sampled trajectories.
+* **First-Shell Dynamics:** Observed Nd³⁺ first-shell coordination numbers (CN) ranging stably between **8.33–9.01** across the sampled trajectories.
 * **Anionic Chelation:** PIL carboxylate species dominate the primary shell, contributing **44.4% to 88.0%** of total coordination.
 * **Competitive Solvation:** Introducing explicit water systematically reduced the primary PIL donor coordination by **24.6% to 48.8%**.
 * **Cation Tuning:** Modifying the anion structure at a fixed cation shifted individual anionic contributions by **11.1 to 54.7 percentage points**, a structural variation found to be highly dependent on the localized cation conformation.
