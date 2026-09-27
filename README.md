@@ -1,15 +1,12 @@
 # Programmable Protic Ionic Liquid–Metal-Organic Framework (PIL-MOF) Moieties for Critical Element Extraction: A Molecular Dynamics (MD) Study
 
-[![Git-Status](https://shields.io)](#)
-[![Field](https://shields.io-emerald)](#)
-
 Molecular dynamics workflow, parameter structures, analysis scripts, and validation resources for investigating how protic ionic liquid (PIL) molecular architecture influences the coordination environment of Neodymium ions in mixed PIL/water solvent systems. 
 
 This repository archives original research assets compiled during the **RENEU Summer Research Program**.
 
 ---
 
-## 📌 Research Core
+## Research Core
 
 ### Primary Objective
 > **How do the molecular structure and coordination behavior of protic ionic liquids influence their suitability for the selective extraction of critical-element ions?**
@@ -24,7 +21,7 @@ This repository archives original research assets compiled during the **RENEU Su
 
 ---
 
-## 📂 Repository Blueprint
+## Repository Blueprint
 
 ```text
 RENEU2026_MD_Mayowa/
@@ -43,7 +40,7 @@ RENEU2026_MD_Mayowa/
 
 ---
 
-## 🛠️ Software & Dependency Stack
+## Software & Dependency Stack
 
 This workspace is verified and optimized for execution in an **Ubuntu/Linux** terminal environment utilizing the following dependencies:
 * **LAMMPS** (Large-scale Atomic/Molecular Massively Parallel Simulator)
@@ -54,7 +51,7 @@ This workspace is verified and optimized for execution in an **Ubuntu/Linux** te
 
 ---
 
-## 🔬 Computational Methodology Layout
+## Computational Methodology Layout
 
 The simulation matrix progresses systematically through distinct benchmarking levels to isolate structural drivers:
 
@@ -73,14 +70,14 @@ The simulation matrix progresses systematically through distinct benchmarking le
                  ↓
   [Stage 3b: Mixed Solvent Coordination (Nd³⁺ + PIL + H₂O)]
                  ↓
-  👉 Final Running Coordination Matrix Analysis
+  Final Running Coordination Matrix Analysis
 ```
 
 ---
 
-## ⚖️ Open Access & Terms
+## Open Access & Terms
 
-* **Original Research Artifacts:** All customized Python utility scripts, Markdown schema, and spatial organization logic are authored by **Mayowa Daramola**.
+* **Original Research Artifacts:** All customized Python utility scripts, Markdown schema, and spatial organization logic are authored by **Mayowa Daramola mentored by Alex Acquah**.
 * **Third-Party Materials:** Force field libraries, empirical literature values, and foundational parameterization packages remain explicitly attributed to their original authors. 
 * **Data Reproducibility Statement:** Large-scale coordinates, checkpoint frames (`*.restart`), and binary trajectory data arrays (`*.lammpstrj`, `*.xtc`) are omitted via `.gitignore` to maintain a streamlined structural template.
 
