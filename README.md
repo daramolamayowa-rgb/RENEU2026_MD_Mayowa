@@ -77,7 +77,7 @@ The simulation matrix progresses systematically through distinct benchmarking le
 
 ## Open Access & Terms
 
-* **Original Research Artifacts:** All customized Python utility scripts, Markdown schema, and spatial organization logic are authored by **Mayowa Daramola mentored by Alex Acquah**.
+* **Original Research Artifacts:** All customized Python utility scripts, Markdown schema, and spatial organization logic are authored by **Mayowa Daramola** mentored by **Alex Acquah**.
 * **Third-Party Materials:** Force field libraries, empirical literature values, and foundational parameterization packages remain explicitly attributed to their original authors. 
 * **Data Reproducibility Statement:** Large-scale coordinates, checkpoint frames (`*.restart`), and binary trajectory data arrays (`*.lammpstrj`, `*.xtc`) are omitted via `.gitignore` to maintain a streamlined structural template.
 
